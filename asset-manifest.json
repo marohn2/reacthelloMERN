@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reacthelloMERN/static/css/main.c733a0c2.chunk.css",
+    "main.js": "/reacthelloMERN/static/js/main.e563c1ad.chunk.js",
+    "main.js.map": "/reacthelloMERN/static/js/main.e563c1ad.chunk.js.map",
+    "runtime-main.js": "/reacthelloMERN/static/js/runtime-main.57a9df9a.js",
+    "runtime-main.js.map": "/reacthelloMERN/static/js/runtime-main.57a9df9a.js.map",
+    "static/js/2.cd4960ca.chunk.js": "/reacthelloMERN/static/js/2.cd4960ca.chunk.js",
+    "static/js/2.cd4960ca.chunk.js.map": "/reacthelloMERN/static/js/2.cd4960ca.chunk.js.map",
+    "static/js/3.a75e1104.chunk.js": "/reacthelloMERN/static/js/3.a75e1104.chunk.js",
+    "static/js/3.a75e1104.chunk.js.map": "/reacthelloMERN/static/js/3.a75e1104.chunk.js.map",
+    "index.html": "/reacthelloMERN/index.html",
+    "static/css/main.c733a0c2.chunk.css.map": "/reacthelloMERN/static/css/main.c733a0c2.chunk.css.map",
+    "static/js/2.cd4960ca.chunk.js.LICENSE.txt": "/reacthelloMERN/static/js/2.cd4960ca.chunk.js.LICENSE.txt",
+    "static/media/ryflowerscopy.62b75702.jpg": "/reacthelloMERN/static/media/ryflowerscopy.62b75702.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57a9df9a.js",
+    "static/js/2.cd4960ca.chunk.js",
+    "static/css/main.c733a0c2.chunk.css",
+    "static/js/main.e563c1ad.chunk.js"
+  ]
+}
